@@ -1,0 +1,14 @@
+https://www.mixamo.com/#/
+
+brute.glb
+brute_attack_primary.glb
+brute_attack_secondary.glb
+brute_death.glb
+brute_idle.glb
+brute_run.glb
+brute_utilty.glb
+mutant.glb
+mutant_attack_primary.glb
+mutant_death.glb
+mutant_idle.glb
+mutant_walk.glb
